@@ -1,4 +1,4 @@
-# chatgpt-wrapped
+# gpt-wrapped
 
 - Download node & pnpm
 - **npm install -g pnpm**
