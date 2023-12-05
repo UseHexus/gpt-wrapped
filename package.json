@@ -1,0 +1,51 @@
+{
+  "name": "gpt",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format:write": "prettier --write \"**/*.{css,js,json,jsx,ts,tsx}\"",
+    "format": "prettier \"**/*.{css,js,json,jsx,ts,tsx}\""
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.299.0",
+    "@aws-sdk/util-dynamodb": "^3.299.0",
+    "@floating-ui/react": "0.25.0",
+    "@headlessui/react": "1.7.15",
+    "@types/node": "18.15.3",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "@types/d3": "7.4.3",
+    "d3-cloud": "1.2.7",
+    "d3": "7.8.5",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "jszip": "3.10.1",
+    "react": "18.2.0",
+    "react-confetti": "6.1.0",
+    "react-dom": "18.2.0",
+    "react-markdown": "^8.0.5",
+    "sonner": "1.0.3",
+    "swr": "^2.1.5",
+    "html2canvas": "1.4.1",
+    "uuid": "9.0.1",
+    "compromise": "14.10.1",
+    "react-icons": "^4.11.0",
+    "copy-to-clipboard": "3.3.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.9",
+    "autoprefixer": "^10.4.14",
+    "classnames": "^2.3.2",
+    "next": "13.5.2",
+    "postcss": "^8.4.21",
+    "prettier": "^2.8.6",
+    "prettier-plugin-tailwindcss": "^0.2.5",
+    "tailwindcss": "^3.2.7",
+    "turbo": "^1.8.3",
+    "@types/d3": "7.4.3"
+  }
+}
