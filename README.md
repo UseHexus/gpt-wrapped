@@ -7,7 +7,7 @@
 
 # Libraries
 
-- D3 for visuzalition
+- D3 for visualization
 - compromise for NLP - has been commented in production as it runs slowly, can optimize further
 
 
@@ -15,6 +15,6 @@
 Feel free to create a pull request or report any bugs. Accuracy of the code is not guaranteed.
 
 
-Made by Team Hexus. Not affliated with Open AI in any way
+Made by Team Hexus. Not affiliated with Open AI in any way
 
 
